@@ -49,6 +49,7 @@ The aim of this project is to predict whether an employee is likely to leave the
 ## Project Structure
 
 EmployeeAttrition_NoorAfshan/
+
 │
 
 ├── analysis.ipynb
