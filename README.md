@@ -50,15 +50,10 @@ The aim of this project is to predict whether an employee is likely to leave the
 
 EmployeeAttrition_NoorAfshan/
 │
-
 ├── analysis.ipynb
-
 ├── HR_Attrition.csv
-
 ├── summary.pdf
-
 ├── README.md
-
 └── charts/
 
 ## Author
