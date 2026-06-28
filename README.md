@@ -60,4 +60,4 @@ EmployeeAttrition_NoorAfshan/
 
 **Noor Afshan**
 
-B.Sc. Data Science Student
+BCA Data Science Student & Intern
